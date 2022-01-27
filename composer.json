@@ -1,0 +1,4 @@
+{"name": "dmandinic/interesting-nothing",
+    "require": {
+    "monolog/monolog": "1.0.*"
+}}
